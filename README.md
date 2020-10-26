@@ -18,3 +18,5 @@ Move a directory where '.in file' and '.diff' be in.
 All outputs validate for the '.diff' named same identify with diff command.
 
 ``````
+
+This source codes are provided under Apache License 2.0, the github's Terms, and the Japanese law.
